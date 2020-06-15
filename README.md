@@ -1,2 +1,2 @@
-# Predicting House price for Baku suburbs using Artificial Neural Networks
+# Predicting House price using Artificial Neural Networks
 
